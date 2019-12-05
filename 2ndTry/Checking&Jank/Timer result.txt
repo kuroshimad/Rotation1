@@ -1,0 +1,6 @@
+To read ph and psi, it takes 0.292 second
+
+for original r calculator from phi, psi without careing periodic boundry, 500 r from 90000 original take 96.04 sec
+
+With careing periodic boundry,  500 r from 90000 original take 120 sec
+
